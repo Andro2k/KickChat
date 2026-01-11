@@ -1,0 +1,18 @@
+# Archivos de compilación de Maven
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# Archivos de NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,21 @@
+# Configuración de KickChat
+
+streamer_name: "theandro2k"
+chatroom_id: 0
+
+# --- CONFIGURACIÓN DE BOTS Y FILTROS ---
+
+bot_settings:
+  filter_enabled: true
+  at_name_color: "&b"
+  
+  # Bots que están ACTUALMENTE silenciados
+  blocked_list:
+    - '@Kicklet'
+
+  # Bots que el plugin conoce (para mostrarlos en el menú)
+  known_bots:
+    - '@Kicklet'
+    - '@BotRix'
+    - '@Nightbot'
+    - '@StreamElements'

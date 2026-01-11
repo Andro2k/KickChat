@@ -1,0 +1,14 @@
+name: KickChat
+version: 1.0
+main: com.kickplugin.kickchat.KickChat
+api-version: 1.21
+description: Plugin de chat para Kick
+author: TheAndro2K
+
+commands:
+  # CAMBIO: Antes era kickadmin, ahora es kickchat
+  kickchat:
+    description: Comandos principales del plugin
+    usage: /kickchat <subcomando>
+    permission: kickchat.use
+    aliases: [kc]  # Bonus: También funcionará escribiendo /kc
