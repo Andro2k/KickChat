@@ -6,7 +6,7 @@
 
     <groupId>com.kickplugin</groupId>
     <artifactId>KickChat</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.5</version>
     <packaging>jar</packaging>
 
     <properties>
