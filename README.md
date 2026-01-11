@@ -26,11 +26,6 @@ A diferencia de otras soluciones, este plugin utiliza conexión directa mediante
 ### Menú de Gestión de Bots (GUI)
 ![Menú de Bots](docs/gui_bots.png)
 
-<<<<<<< HEAD
-=======
-### Alerta de Nuevo Seguidor
-![Alerta Follower](docs/follower_alert.png)
->>>>>>> b34b5ee82caf33b3003e9960bdd6c4c4c54f6174
 
 ## Instalación
 
