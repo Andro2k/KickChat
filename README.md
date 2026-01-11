@@ -1,4 +1,4 @@
-# KickChat Plugin
+# KickChat MC Plugin
 
 ![Banner Principal](docs/banner.png)
 *Inserte aquí una captura del banner de inicio en la consola o un logo del proyecto.*
